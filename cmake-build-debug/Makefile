@@ -170,6 +170,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+triangleCharacter.o: triangleCharacter.cpp.o
+
+.PHONY : triangleCharacter.o
+
+# target to build an object file
+triangleCharacter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/triangleCharacter.cpp.o
+.PHONY : triangleCharacter.cpp.o
+
+triangleCharacter.i: triangleCharacter.cpp.i
+
+.PHONY : triangleCharacter.i
+
+# target to preprocess a source file
+triangleCharacter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/triangleCharacter.cpp.i
+.PHONY : triangleCharacter.cpp.i
+
+triangleCharacter.s: triangleCharacter.cpp.s
+
+.PHONY : triangleCharacter.s
+
+# target to generate assembly for a file
+triangleCharacter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/triangleCharacter.cpp.s
+.PHONY : triangleCharacter.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -182,6 +209,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... triangleCharacter.o"
+	@echo "... triangleCharacter.i"
+	@echo "... triangleCharacter.s"
 .PHONY : help
 
 
