@@ -170,6 +170,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+squareArea.o: squareArea.cpp.o
+
+.PHONY : squareArea.o
+
+# target to build an object file
+squareArea.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/squareArea.cpp.o
+.PHONY : squareArea.cpp.o
+
+squareArea.i: squareArea.cpp.i
+
+.PHONY : squareArea.i
+
+# target to preprocess a source file
+squareArea.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/squareArea.cpp.i
+.PHONY : squareArea.cpp.i
+
+squareArea.s: squareArea.cpp.s
+
+.PHONY : squareArea.s
+
+# target to generate assembly for a file
+squareArea.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/squareArea.cpp.s
+.PHONY : squareArea.cpp.s
+
 triangleCharacter.o: triangleCharacter.cpp.o
 
 .PHONY : triangleCharacter.o
@@ -209,6 +236,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... squareArea.o"
+	@echo "... squareArea.i"
+	@echo "... squareArea.s"
 	@echo "... triangleCharacter.o"
 	@echo "... triangleCharacter.i"
 	@echo "... triangleCharacter.s"

@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/yuyy/CLionProjects/basic/main.cpp
-triangleCharacter.h
-/Users/yuyy/CLionProjects/basic/triangleCharacter.h
-
-/Users/yuyy/CLionProjects/basic/triangleCharacter.cpp
+/Users/yuyy/CLionProjects/basic/squareArea.cpp
 iostream
--
-triangleCharacter.h
-/Users/yuyy/CLionProjects/basic/triangleCharacter.h
+/Users/yuyy/CLionProjects/basic/iostream
+fstream
+/Users/yuyy/CLionProjects/basic/fstream
+squareArea.h
+/Users/yuyy/CLionProjects/basic/squareArea.h
 
-/Users/yuyy/CLionProjects/basic/triangleCharacter.h
+/Users/yuyy/CLionProjects/basic/squareArea.h
 

@@ -81,6 +81,12 @@
 		<Unit filename="/Users/yuyy/CLionProjects/basic/main.cpp">
 			<Option target="basic"/>
 		</Unit>
+		<Unit filename="/Users/yuyy/CLionProjects/basic/squareArea.cpp">
+			<Option target="basic"/>
+		</Unit>
+		<Unit filename="/Users/yuyy/CLionProjects/basic/squareArea.h">
+			<Option target="basic"/>
+		</Unit>
 		<Unit filename="/Users/yuyy/CLionProjects/basic/triangleCharacter.cpp">
 			<Option target="basic"/>
 		</Unit>
