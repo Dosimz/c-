@@ -6,21 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/yuyy/CLionProjects/basic/main.cpp
-pr316.h
-/Users/yuyy/CLionProjects/basic/pr316.h
+/Users/yuyy/CLionProjects/basic/pr321.cpp
 fstream
 -
 iostream
 -
+pr321.h
+/Users/yuyy/CLionProjects/basic/pr321.h
 
-/Users/yuyy/CLionProjects/basic/pr316.cpp
-fstream
--
-iostream
--
-pr316.h
-/Users/yuyy/CLionProjects/basic/pr316.h
-
-/Users/yuyy/CLionProjects/basic/pr316.h
+/Users/yuyy/CLionProjects/basic/pr321.h
 

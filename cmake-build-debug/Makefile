@@ -197,6 +197,33 @@ pr316.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr316.cpp.s
 .PHONY : pr316.cpp.s
 
+pr321.o: pr321.cpp.o
+
+.PHONY : pr321.o
+
+# target to build an object file
+pr321.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr321.cpp.o
+.PHONY : pr321.cpp.o
+
+pr321.i: pr321.cpp.i
+
+.PHONY : pr321.i
+
+# target to preprocess a source file
+pr321.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr321.cpp.i
+.PHONY : pr321.cpp.i
+
+pr321.s: pr321.cpp.s
+
+.PHONY : pr321.s
+
+# target to generate assembly for a file
+pr321.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr321.cpp.s
+.PHONY : pr321.cpp.s
+
 squareArea.o: squareArea.cpp.o
 
 .PHONY : squareArea.o
@@ -266,6 +293,9 @@ help:
 	@echo "... pr316.o"
 	@echo "... pr316.i"
 	@echo "... pr316.s"
+	@echo "... pr321.o"
+	@echo "... pr321.i"
+	@echo "... pr321.s"
 	@echo "... squareArea.o"
 	@echo "... squareArea.i"
 	@echo "... squareArea.s"
