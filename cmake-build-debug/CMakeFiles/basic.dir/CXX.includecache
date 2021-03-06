@@ -6,13 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/yuyy/CLionProjects/basic/squareArea.cpp
-iostream
-/Users/yuyy/CLionProjects/basic/iostream
+/Users/yuyy/CLionProjects/basic/main.cpp
+pr316.h
+/Users/yuyy/CLionProjects/basic/pr316.h
 fstream
-/Users/yuyy/CLionProjects/basic/fstream
-squareArea.h
-/Users/yuyy/CLionProjects/basic/squareArea.h
+-
+iostream
+-
 
-/Users/yuyy/CLionProjects/basic/squareArea.h
+/Users/yuyy/CLionProjects/basic/pr316.cpp
+fstream
+-
+iostream
+-
+pr316.h
+/Users/yuyy/CLionProjects/basic/pr316.h
+
+/Users/yuyy/CLionProjects/basic/pr316.h
 
