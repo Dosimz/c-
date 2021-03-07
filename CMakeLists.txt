@@ -3,4 +3,4 @@ project(basic)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(basic main.cpp triangleCharacter.cpp triangleCharacter.h squareArea.cpp squareArea.h pr316.cpp pr316.h pr321.cpp pr321.h pr322.cpp pr322.h)
+add_executable(basic main.cpp triangleCharacter.cpp triangleCharacter.h squareArea.cpp squareArea.h pr316.cpp pr316.h pr321.cpp pr321.h pr322.cpp pr322.h pr323.cpp pr323.h pr324.cpp pr324.h)

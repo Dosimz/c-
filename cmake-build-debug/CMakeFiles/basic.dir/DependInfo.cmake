@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/yuyy/CLionProjects/basic/pr316.cpp" "/Users/yuyy/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir/pr316.cpp.o"
   "/Users/yuyy/CLionProjects/basic/pr321.cpp" "/Users/yuyy/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir/pr321.cpp.o"
   "/Users/yuyy/CLionProjects/basic/pr322.cpp" "/Users/yuyy/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir/pr322.cpp.o"
+  "/Users/yuyy/CLionProjects/basic/pr323.cpp" "/Users/yuyy/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir/pr323.cpp.o"
+  "/Users/yuyy/CLionProjects/basic/pr324.cpp" "/Users/yuyy/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir/pr324.cpp.o"
   "/Users/yuyy/CLionProjects/basic/squareArea.cpp" "/Users/yuyy/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir/squareArea.cpp.o"
   "/Users/yuyy/CLionProjects/basic/triangleCharacter.cpp" "/Users/yuyy/CLionProjects/basic/cmake-build-debug/CMakeFiles/basic.dir/triangleCharacter.cpp.o"
   )

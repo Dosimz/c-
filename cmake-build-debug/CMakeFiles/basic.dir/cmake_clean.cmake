@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/basic.dir/pr316.cpp.o"
   "CMakeFiles/basic.dir/pr321.cpp.o"
   "CMakeFiles/basic.dir/pr322.cpp.o"
+  "CMakeFiles/basic.dir/pr323.cpp.o"
+  "CMakeFiles/basic.dir/pr324.cpp.o"
   "CMakeFiles/basic.dir/squareArea.cpp.o"
   "CMakeFiles/basic.dir/triangleCharacter.cpp.o"
   "basic"

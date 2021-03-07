@@ -251,6 +251,60 @@ pr322.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr322.cpp.s
 .PHONY : pr322.cpp.s
 
+pr323.o: pr323.cpp.o
+
+.PHONY : pr323.o
+
+# target to build an object file
+pr323.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr323.cpp.o
+.PHONY : pr323.cpp.o
+
+pr323.i: pr323.cpp.i
+
+.PHONY : pr323.i
+
+# target to preprocess a source file
+pr323.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr323.cpp.i
+.PHONY : pr323.cpp.i
+
+pr323.s: pr323.cpp.s
+
+.PHONY : pr323.s
+
+# target to generate assembly for a file
+pr323.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr323.cpp.s
+.PHONY : pr323.cpp.s
+
+pr324.o: pr324.cpp.o
+
+.PHONY : pr324.o
+
+# target to build an object file
+pr324.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr324.cpp.o
+.PHONY : pr324.cpp.o
+
+pr324.i: pr324.cpp.i
+
+.PHONY : pr324.i
+
+# target to preprocess a source file
+pr324.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr324.cpp.i
+.PHONY : pr324.cpp.i
+
+pr324.s: pr324.cpp.s
+
+.PHONY : pr324.s
+
+# target to generate assembly for a file
+pr324.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basic.dir/build.make CMakeFiles/basic.dir/pr324.cpp.s
+.PHONY : pr324.cpp.s
+
 squareArea.o: squareArea.cpp.o
 
 .PHONY : squareArea.o
@@ -326,6 +380,12 @@ help:
 	@echo "... pr322.o"
 	@echo "... pr322.i"
 	@echo "... pr322.s"
+	@echo "... pr323.o"
+	@echo "... pr323.i"
+	@echo "... pr323.s"
+	@echo "... pr324.o"
+	@echo "... pr324.i"
+	@echo "... pr324.s"
 	@echo "... squareArea.o"
 	@echo "... squareArea.i"
 	@echo "... squareArea.s"
