@@ -3,7 +3,8 @@
 //#include "pr316.h"
 //#include "pr321.h"
 //#include "pr322.h"
-#include "pr323.h"
+//#include "pr323.h"
+#include "pr324.h"
 #include <fstream>
 #include <iostream>
 using namespace std;
@@ -13,6 +14,7 @@ int main() {
 //    pr316();
 //    pr321();
 //    pr322();
-    pr323();
+//    pr323();
+    pr324();
     return 0;
 }

@@ -5,7 +5,7 @@
 #ifndef BASIC_PR324_H
 #define BASIC_PR324_H
 
-
+int pr324();
 class pr324 {
 
 };
